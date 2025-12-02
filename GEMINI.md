@@ -198,11 +198,36 @@ Then:
 4. Ad exchange partnerships
 5. Scale to 10,000 taxis
 
+## Target Customers (NEW)
+
+Based on latest market research (2025-12-03):
+
+**Top 5 DOOH Advertisers in Vietnam**:
+1. **Samsung** (Consumer Electronics) - Wants programmatic capabilities
+2. **VinFast** (Automotive) - Wants audience-based targeting
+3. **Grab** (Technology/Ride-Hailing) - Wants real-time bidding
+4. **Coca-Cola** (FMCG) - Wants dynamic creative optimization
+5. **Masan Group** (Conglomerate/FMCG) - Wants standardized measurement
+
+**Key Pain Points to Address**:
+- Lack of standardized measurement (attribution, verified impressions)
+- Fragmented buying process (need centralized marketplace)
+- Limited programmatic capabilities (need RTB, DCO)
+- Poor audience-based targeting (beyond just location)
+- Inconsistent technical standards
+
+See `vietnam-dooh-top-brands-analysis_2025-12-03_1612.md` for full analysis.
+
 ## Session History
 
 See `/SESSION-SUMMARY.md` for detailed development history.
 
-**Latest Session**: 2025-12-03
+**Latest Session**: 2025-12-03 16:12
+- Identified top 5 target advertisers
+- Documented advertiser pain points and needs
+- Validated product roadmap priorities
+
+**Previous Session**: 2025-12-03 (Evening)
 - Built complete MVP system
 - Generated all documentation
 - Created market research and visualizations
