@@ -1,0 +1,6 @@
+node_modules/
+uploads/
+taxi.db
+taxi.db-journal
+.env
+*.log

@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Runtime data
+taxi-mvp/data/*.json
+taxi-mvp/uploads/*
+!taxi-mvp/uploads/.gitkeep
+
+# Environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+~$*.docx
+~$*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Logs
+*.log
+logs/
+
+# Database
+*.sqlite
+*.db
