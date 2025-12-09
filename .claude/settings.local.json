@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "Bash(gh repo create:*)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []
