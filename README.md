@@ -193,17 +193,24 @@ We've validated feasibility if:
 
 ## Next Phase (If Validated)
 
-**Phase 2: 1,000 Taxi Launch** ($300k, 3 months)
-- Custom hardware manufacturing
-- Advertiser self-serve platform
-- Sales team (2 people)
-- Real revenue campaigns
+**Phase 2: 1,000 Taxi Launch** (Xanh SM Partnership)
+- Xanh SM funds hardware ($300K for 1,000 screens)
+- 40% revenue share to Xanh SM
+- Build SME self-serve platform
+- Target: 40% fill rate, $10K/month profit
 
-**Phase 3: Programmatic Scale** ($2M, 12 months)
-- 10,000 taxis
-- OpenRTB integration
-- Ad exchange partnerships
-- $100k/mo revenue target
+**Phase 3: 30,000 Screen Scale** (Full Xanh SM Fleet)
+- Xanh SM investment: $6.12M over 3 years
+- Your profit: $3.78M/year at 40% fill rate
+- Xanh SM ROI: 70% (14-month payback)
+- Target: $20M+ valuation
+
+### Revenue Model (Validated 11.12.25)
+| Phase | Screens | Fill Rate | Your Annual Profit |
+|-------|---------|-----------|-------------------|
+| MVP | 1,000 | 40% | $120K |
+| Scale | 30,000 | 40% | $3.78M |
+| Mature | 30,000 | 60% | $6.16M |
 
 ---
 
@@ -216,7 +223,13 @@ We've validated feasibility if:
 
 **Vietnam**: No direct competitor yet (first-mover advantage)
 
-**Defensibility**: Exclusive access to 50,000-vehicle fleet
+**Defensibility**: Exclusive access to 30,000+ Xanh SM vehicle fleet
+
+### Why Previous Attempts Failed (iDOOH + Mai Linh, 2018)
+- Mai Linh had $8M debt when partnership formed
+- iDOOH (Singapore) funded hardware - went bankrupt ~2019
+- No ride data integration - couldn't target or prove ROI
+- **Key lesson**: Partner with growing fleet, they fund hardware
 
 ---
 

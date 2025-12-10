@@ -62,12 +62,43 @@ taxi-mvp/
 ## Research & Strategy Documents
 
 Root directory contains market research and strategy analysis:
+
+### Market Research
 - `vietnam-dooh-advertiser-spending-analysis.md` - Top advertiser research
 - `existing-solutions-analysis.md` - Competitor analysis
-- `[09.12.25]-blue-ocean-*.md/docx` - Blue Ocean Strategy canvases (VPC, BMC)
 - `[09.12.25]-grabads-taxi-screen-research.md` - GrabAds implementation, safety regulations, Vietnam market (DrivAdz partner, VinaSun 1,500+ screens)
 - `how-grab-built-it.md` - Grab's ad server architecture (7-stage pipeline, ElasticSearch, ScyllaDB)
+
+### Business Strategy (09.12.25)
+- `[09.12.25]-blue-ocean-*.md/docx` - Blue Ocean Strategy canvases (VPC, BMC)
+
+### Business Model & Financials (11.12.25)
+- `[11.12.25]-revenue-estimation-30k-screens.md` - Revenue model: MVP ($10K/mo) to scale ($3.78M/yr)
+- `[11.12.25]-pricing-strategy-cpm-cpo-hybrid.md` - Tiered CPM ($4-25) and hybrid CPO mechanics
+- `[11.12.25]-xanh-sm-investment-analysis.md` - Xanh SM partnership: $6.12M investment, 70% ROI, 14-mo payback
+- `[11.12.25]-mai-linh-idooh-failure-analysis.md` - Why iDOOH failed (execution, not regulations)
+- `[11.12.25]-research-summary-hypotheses-findings.md` - Comprehensive hypothesis validation
+
+### Session Tracking
 - `session-summaries/` - Session-by-session findings and progress tracking
+
+## Key Validated Insights
+
+### Regulatory (Validated 11.12.25)
+- **In-car screens are LEGAL** - Article 32, Advertising Law 2012
+- **No license required** - Only notification (15 days, auto-approved)
+- **Passenger-facing placement** - Headrest-mounted screens don't distract drivers
+
+### Why Previous Attempts Failed (iDOOH + Mai Linh)
+- Mai Linh had $8M debt when partnership formed (2018)
+- iDOOH funded hardware themselves - burned $3.88M
+- No ride data integration - couldn't target or prove ROI
+- **Lesson**: Partner with growing fleet (Xanh SM), they fund hardware
+
+### Unit Economics (Validated 11.12.25)
+- MVP break-even: 7% fill rate
+- Scale target: 40% fill rate = $3.78M/year profit
+- Xanh SM ROI: 70% over 3 years (14-month payback)
 
 ## Custom Agents
 
